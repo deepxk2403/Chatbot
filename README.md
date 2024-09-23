@@ -1,1 +1,1 @@
-# Chatbot
+This Chatbot is a user-friendly research tool designed for effortless information retrieval. Users can input article URLs or web links and ask questions to receive relevant insights from those articles.
