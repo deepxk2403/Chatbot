@@ -10,6 +10,8 @@ Features
 
 -Interact with the LLM's (Chatbot) by inputting queries and receiving answers along with source URLs.
 
+Run the Streamlit app by executing: "streamlit run main.py" in the terminal.
+
 Project Structure
 
 =main.py: The main Streamlit application script.
